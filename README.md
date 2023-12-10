@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**shaw-taylor/shaw-taylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 I’m Shaw.
+- 💻 I enjoy working with Python, SQL, and PowerBI.
+- 📫 Connect with me on [LinkedIn](www.linkedin.com/in/shaw-taylor-581043269) for professional networking.
 
-Here are some ideas to get you started:
+### 🚀 My Tech Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=white)
+
+
+### 🌱 Currently Learning:
+
+- **Machine Learning**
+
