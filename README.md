@@ -2,7 +2,7 @@
 
 - 👋 I’m Shaw.
 - 💻 I enjoy working with Python, SQL, and PowerBI.
-- 📫 Connect with me on [LinkedIn](www.linkedin.com/in/shaw-taylor-581043269) for professional networking.
+- 📫 Connect with me on [LinkedIn](www.linkedin.com/in/shaw-taylor-581043269)
 
 ### 🌱 Currently Learning:
 
