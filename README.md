@@ -2,7 +2,7 @@
 
 - 👋 I’m Shaw.
 - 💻 I enjoy working with Python, NetLogo, SQL, and PowerBI.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/shaw-taylor).
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/shaw-taylor/).
 
 ### 🌱 Currently Learning:
 
